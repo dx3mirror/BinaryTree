@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\bin\Debug\BinaryTreeHHRU.exe.config
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\bin\Debug\BinaryTreeHHRU.exe
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\bin\Debug\BinaryTreeHHRU.pdb
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\obj\Debug\BinaryTreeHHRU.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\obj\Debug\BinaryTreeHHRU.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\obj\Debug\BinaryTreeHHRU.exe
+C:\Users\HP\source\repos\BinaryTreeHHRU\BinaryTreeHHRU\obj\Debug\BinaryTreeHHRU.pdb
